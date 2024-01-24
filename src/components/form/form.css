@@ -1,0 +1,38 @@
+.ventanaError {
+    color: red;
+}
+
+.formDiv {
+    background-color: rgb(177, 35, 75);
+ 
+    position: absolute;
+    background-size: cover;
+    background-position: center;
+}
+
+.imagenDiv {
+    display: flex;
+    position: relative;
+    width: 600px;
+    height: 900px;
+    margin: 20px;
+    background-size: cover;
+    background-position: center;
+ }
+
+
+ .inputDiv {
+    background-color: rgb(178, 177, 178);
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 590px;
+    height: 400px;
+    margin: 20px;
+    background-size: cover;
+    background-position: center; 
+ }
+
+ label {
+    font-size: 2em;
+ }
